@@ -1,0 +1,30 @@
+{
+  "name": "react-native-alipay",
+  "version": "0.0.0",
+  "description": "Alipay SDK for React Native.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pantao/react-native-alipay.git"
+  },
+  "keywords": [
+    "react-native",
+    "alipay"
+  ],
+  "author": "pantao <54778899@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pantao/react-native-alipay/issues"
+  },
+  "homepage": "https://github.com/pantao/react-native-alipay#readme",
+  "devDependencies": {
+    "query-string": "^6.1.0"
+  },
+  "dependencies": {
+    "buffer": "^5.1.0",
+    "jsrsasign": "^8.0.12"
+  }
+}
