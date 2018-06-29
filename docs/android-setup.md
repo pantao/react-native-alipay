@@ -5,7 +5,7 @@
     ```java
     // ...
 
-    import com.reactlibrary.AlipayPackage;
+    import com.onmr.rn.alipay.AlipayPackage;
 
     public class MainApplication extends Application implements ReactApplication {
 
@@ -30,7 +30,7 @@
 
     ```
     include ':react-native-alipay'
-    project(':react-native-alipay').projectDir = new File(rootProject.projectDir, '../node_modules/@0x5e/react-native-alipay/android')
+    project(':react-native-alipay').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-alipay/android')
     ```
 
 3. 在 `android/app/build.gradle` 的 `dependencies` 中，添加以下行：
