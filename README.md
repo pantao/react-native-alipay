@@ -16,7 +16,7 @@ Native AlipaySDK Library （[下载地址](https://docs.open.alipay.com/54/10450
 ## 安装
 
 ```bash
-yarn add @pantao/react-native-alipay
+yarn add github:pantao/react-native-alipay
 ```
 
 ## 配置
